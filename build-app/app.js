@@ -6,6 +6,6 @@ app.get('/', function (req, res) {
 });
 
 app.listen(8080, function () {
-  console.log('Simple app for the Building Applications Lab!');
+  console.log('Simple app for the Building Applications Lab2!');
 });
 
